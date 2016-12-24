@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GM
+  - Enemy
+  - YAxisNode
+  - LockNode
+  - Parallax Camera
+  - ZoomNode
+  - CameraNode1
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Background
+  - Midground
+  - Foreground
+  - Moon
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3320862623
+    locked: 0
+  - name: Midground
+    uniqueID: 3205245237
+    locked: 0
+  - name: Foreground
+    uniqueID: 2127788761
+    locked: 0
+  - name: Ground
+    uniqueID: 2067555591
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Bones
+    uniqueID: 772423235
+    locked: 0
+  - name: Controls
+    uniqueID: 3480944593
+    locked: 0
