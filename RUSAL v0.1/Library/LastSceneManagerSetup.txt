@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Game Scenes/level1_new_art.unity
+  isLoaded: 1
+  isActive: 1
